@@ -12,6 +12,6 @@
 <img src="https://img.shields.io/badge/JAVASCRIPT-0F2346?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> 
  
  <h2>🛸STUDYING</h2>
-<img src="https://img.shields.io/badge/REACT-0F2346?style=for-the-badge&logo=react%2B%2B&logoColor=61DAFB">
- <img src="https://img.shields.io/badge/ANDROID-0F2346?style=for-the-badge&logo=android%2B%2B&logoColor=3DDC84">
+<img src="https://img.shields.io/badge/REACT-0F2346?style=for-the-badge&logo=React%2B%2B&logoColor=61DAFB">
+ <img src="https://img.shields.io/badge/ANDROID-0F2346?style=for-the-badge&logo=Android%2B%2B&logoColor=3DDC84">
  
