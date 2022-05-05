@@ -1,6 +1,6 @@
 <div align="center">
  <h1>LEE SONG WON🚀🪐</h2>
- <img src="https://static.wikia.nocookie.net/heroe/images/d/d7/Cuphead.gif" width="130" height="100"/>
+ <img src="https://static.wikia.nocookie.net/heroe/images/d/d7/Cuphead.gif" width="100" height="200"/>
 
 💻Computer Engineering , CBNU
 
