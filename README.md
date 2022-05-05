@@ -16,4 +16,4 @@
 <img src="https://img.shields.io/badge/ANDROID-0F2346?style=for-the-badge&logo=android&logoColor=3DDC84">
 <img src="https://img.shields.io/badge/JAVA-0F2346?style=for-the-badge&logo=java&logoColor=007396">
  
-[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=songwon0327)](https://solved.ac/songwon0327)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=songwon01)](https://solved.ac/songwon01)
